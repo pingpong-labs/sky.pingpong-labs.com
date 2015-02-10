@@ -22,7 +22,7 @@
 		<div class="container">
 			<a href="/" class="brand">
 				<img src="/assets/img/laravel-logo.png" height="30">
-				Laravel
+				Sky
 			</a>
 
 			<div class="responsive-sidebar-nav">
