@@ -21,7 +21,6 @@
 	<nav class="main">
 		<div class="container">
 			<a href="/" class="brand">
-				<img src="/assets/img/laravel-logo.png" height="30">
 				Sky
 			</a>
 
