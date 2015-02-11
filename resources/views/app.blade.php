@@ -8,6 +8,7 @@
 	<meta name="description" content="Sky - The Extra Laravel Packages">
 	<meta name="keywords" content="laravel, php, framework, web, artisans, taylor otwell">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="/favicon.png">
 	<!--[if lte IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -21,6 +22,7 @@
 	<nav class="main">
 		<div class="container">
 			<a href="/" class="brand">
+				<img src="/pingpong-labs-logo.png">
 				Sky
 			</a>
 
