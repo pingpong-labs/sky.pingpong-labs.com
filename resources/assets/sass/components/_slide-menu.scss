@@ -109,3 +109,9 @@
     opacity: 1;
   }
 }
+
+@media(min-width:1200px) {
+    .slide-menu {
+        display:none;
+    }
+}
