@@ -54,9 +54,9 @@
 	}
 
 	a {
-		text-decoration: underline;
 		&:hover {
 			color: darken($color__salmon, 10%);
+			text-decoration: underline;
 		}
 	}
 
