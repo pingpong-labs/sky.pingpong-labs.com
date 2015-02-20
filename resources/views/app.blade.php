@@ -8,6 +8,7 @@
 	<meta name="description" content="Sky - The Extra Laravel Packages">
 	<meta name="keywords" content="laravel, gravitano, pingpong, ping pong, pingpong labs, pingpong-labs, laravel, packages">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="D2ZedtfXH-qgzRPrWLhBUAOctj-X264NbFFhAtiLbgk" />
 	<link rel="icon" href="/favicon.png">
 	<!--[if lte IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
