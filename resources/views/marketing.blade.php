@@ -23,7 +23,7 @@ home
 <section class="panel statement light">
 	<div class="content">
 		<h1>What is Sky?</h1>
-		<p>Sky is an extra Laravel packages.</p>		
+		<p>Sky is an extra Laravel package.</p>		
 	</div>
 </section>
 
