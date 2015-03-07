@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="author" content="Gravitano">
 	<meta name="description" content="Sky - The Extra Laravel Packages">
-	<meta name="keywords" content="laravel, gravitano, pingpong, ping pong, pingpong labs, pingpong-labs, laravel, packages">
+	<meta name="keywords" content="sky, pingpong/sky, laravel, gravitano, pingpong, ping pong, pingpong labs, pingpong-labs, laravel, packages">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="google-site-verification" content="D2ZedtfXH-qgzRPrWLhBUAOctj-X264NbFFhAtiLbgk" />
 	<link rel="icon" href="/favicon.png">
