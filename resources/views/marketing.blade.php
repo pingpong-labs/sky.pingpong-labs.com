@@ -29,7 +29,7 @@ home
 
 <section class="panel ecosystem light" id="ecosystem">
 	<h1>The Most Popular Packages</h1>
-	<p>Here is some of most polular package which is a part of SKY package.</p>
+	<p>Here are some of most polular package which is a part of SKY package.</p>
 
 	<div class="tiles">
 		<div class="tile">
