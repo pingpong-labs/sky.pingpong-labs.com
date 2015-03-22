@@ -1,5 +1,5 @@
 <footer class="page-footer blue lighten-1">
-  <div class="{!! Request::is('docs/*') ? '' : 'container' !!}">
+  <div class="{!! Request::is('/') ? 'container' : '' !!}">
     <div class="row">
       <div class="col l6 s12">
         <h5 class="white-text">About Pingpong Labs</h5>

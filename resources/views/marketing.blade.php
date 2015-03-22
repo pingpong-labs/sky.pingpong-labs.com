@@ -1,8 +1,13 @@
-@extends('app')
-
-@section('content')
-
-	<div class="section no-pad-bot" id="index-banner">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pingpong Sky - The extra Laravel package</title>
+  @include('partials.head')
+  <link rel="stylesheet" type="text/css" href="/css/home.css">
+</head>
+<body>
+  @include('partials.header')
+  <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
       <h1 class="header center blue-text">What is Pingpong Sky?</h1>
@@ -13,7 +18,6 @@
         <a href="/docs" id="download-button" class="btn-large waves-effect waves-light blue">Get Started</a>
       </div>
       <br><br>
-
     </div>
   </div>
 
@@ -51,5 +55,7 @@
     </section>
   </main>
 
+  @include('partials.footer')
 
-@endsection
+</body>
+</html>
