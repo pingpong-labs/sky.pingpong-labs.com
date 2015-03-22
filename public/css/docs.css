@@ -1,0 +1,22 @@
+header, main, footer {
+	padding-left: 240px;
+}
+
+@media only screen and (max-width : 992px) {
+	header, main, footer {
+		padding-left: 0;
+	}
+}
+.heart {
+	color: #f44336;
+}
+
+li.logo .brand-logo {
+	position: relative;
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 5px;
+}
+
+.brand-logo.title {
+	margin-left: 10px;
+}
