@@ -49,12 +49,22 @@ class DocsController extends Controller {
 			abort(404);
 		}
 
-		return view('docs', [
-			'index' => $this->docs->getIndex($version),
+		return view('docs.index', [
 			'content' => $content,
-			'currentVersion' => $version,
+			'currentVersion' => $this->getCurrentVersion($version),
 			'versions' => $this->getDocVersions(),
+			'index' => $this->docs->getIndex($version),
 		]);
+	}
+
+	public function getCurrentVersion($version)
+	{
+		if ($this->isVersion($version))
+		{
+			return $this->getDocVersions()[$version];
+		}
+
+		return $version;
 	}
 
 	/**
