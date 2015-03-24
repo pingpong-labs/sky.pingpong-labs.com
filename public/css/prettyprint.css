@@ -1,0 +1,61 @@
+/* ------ START OF THEME ------ */
+/*
+ * Github
+ * Prettify CSS Theme.
+ *
+ * Copyright (c) 2014 Dayle Rees
+ */
+pre.prettyprint {
+  background-color: #ffffff;
+  color: #666 !important;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -o-border-radius: 5px;
+  padding: 10px !important;
+  border: 1px solid #DDD !important;
+  font-size: 14px;
+}
+pre.prettyprint code {
+  font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+}
+pre.prettyprint .pln {
+  color: #555555;
+}
+pre.prettyprint .str {
+  color: #DD1144;
+}
+pre.prettyprint .kwd {
+  color: #445588;
+}
+pre.prettyprint .com {
+  color: #b8b6b1;
+}
+pre.prettyprint .typ {
+  color: #008080;
+}
+pre.prettyprint .lit {
+  color: #DD1144;
+}
+pre.prettyprint .pun,
+pre.prettyprint .opn,
+pre.prettyprint .clo {
+  color: #555555;
+}
+pre.prettyprint .tag {
+  color: #445588;
+}
+pre.prettyprint .atn {
+  color: #008080;
+}
+pre.prettyprint .atv {
+  color: #DD1144;
+}
+pre.prettyprint .dec,
+pre.prettyprint .var {
+  color: #DD1144;
+}
+pre.prettyprint .fun {
+  color: #445588;
+}
+/* ------- END OF THEME ------- */
