@@ -8,7 +8,9 @@
       
         {!! $index !!}
 
-        <a href="#" data-activates="slide-out2" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+        <a href="#" data-activates="slide-out2" class="button-collapse btn-menu-left">
+        	<i class="mdi-navigation-menu"></i>
+        </a>
         
 
       </div>

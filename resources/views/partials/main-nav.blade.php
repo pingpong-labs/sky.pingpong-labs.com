@@ -1,4 +1,4 @@
-<ul id="slide-out" class="side-nav">
+<ul id="slide-out" class="side-nav right">
   <li><a href="{!! url('/') !!}">Home</a></li>
   <li><a href="{!! url('/docs') !!}">Documentation</a></li>
   <li class="no-padding">
@@ -36,4 +36,4 @@
     </ul>
     @endif
   </ul>
-  <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+  <a href="#" data-activates="slide-out" class="button-collapse btn-toggle-right"><i class="mdi-navigation-menu"></i></a>

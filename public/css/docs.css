@@ -6,10 +6,23 @@ body.docs header, main, footer {
 	body.docs header, main, footer {
 		padding-left: 0;
 	}
+	li.logo {
+		margin-top: 40px;
+	}
+	.btn-toggle-right {
+		float: right !important;
+	}
+	.brand-logo.title {
+		margin-left:0px;
+	}
 }
 
 .heart {
 	color: #f44336;
+}
+
+ul.side-nav.fixed {
+	overflow: auto;
 }
 
 li.logo .brand-logo {
@@ -19,5 +32,9 @@ li.logo .brand-logo {
 }
 
 .brand-logo.title {
-	margin-left: 10px;
+	margin-left: 50px;
+}
+
+.row > .col.s12 {
+  padding-left: 50px;
 }
