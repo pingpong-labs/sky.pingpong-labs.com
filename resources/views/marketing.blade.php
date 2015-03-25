@@ -55,7 +55,31 @@
     </section>
   </main>
 
+@if ( ! App::isLocal())
+  <main class="container">
+    <section class="section">
+      <div class="row">
+        <div class="col s12">
+          <!-- Dashboard Pingpong Sky -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3727517226159314"
+     data-ad-slot="2492776384"
+     data-ad-format="auto"></ins>
+        </div>
+      </div>
+    </section>
+  </main>
+@endif
+
   @include('partials.footer')
+
+@if ( ! App::isLocal())
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+@endif
 
 </body>
 </html>
