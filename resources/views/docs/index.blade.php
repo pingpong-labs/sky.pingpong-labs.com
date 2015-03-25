@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Pingpong Sky - The extra Laravel package</title>
+	<title>Pingpong Sky - An Extra Laravel Component</title>
   @include('partials.head')
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.min.css">
   <link rel="stylesheet" type="text/css" href="/css/docs.css">
