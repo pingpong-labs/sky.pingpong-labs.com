@@ -13,7 +13,10 @@ body.docs header, main, footer {
 		float: right !important;
 	}
 	.brand-logo.title {
-		margin-left:0px;
+		margin-left:0px !important;
+	}
+	.row > .col.s12 {
+		padding-left: 10px !important;
 	}
 }
 
