@@ -4,7 +4,7 @@
 <meta name="google-site-verification" content="D2ZedtfXH-qgzRPrWLhBUAOctj-X264NbFFhAtiLbgk" />
 <meta name="description" content="Pingpong Sky is an extra laravel package that created for Laravel 4 and Laravel 5.">
 <meta name="author" content="Pingpong Labs">
-<meta name="keywords" content="pingpong sky, laravel, pingpong labs, gravitano, sky">
+<meta name="keywords" content="pingpong sky, laravel, pingpong labs, gravitano, sky, technology, documentation, hosting">
 
 <!--Import materialize.css-->
 <link type="text/css" rel="stylesheet" href="/assets/materialize/dist/css/materialize.min.css"  media="screen,projection"/>
