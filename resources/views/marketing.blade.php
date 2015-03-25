@@ -55,6 +55,17 @@
     </section>
   </main>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Dashboard Pingpong Sky -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3727517226159314"
+     data-ad-slot="2492776384"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
   @include('partials.footer')
 
 </body>
