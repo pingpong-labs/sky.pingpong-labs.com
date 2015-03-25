@@ -12,6 +12,18 @@
   <main>
     <section class="row">
       <div class="col s12">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Pingpong Sky Documentation -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-3727517226159314"
+             data-ad-slot="6783375185"
+             data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+      <div class="col s12">
         {!! $content !!}
       </div>
     </section>
