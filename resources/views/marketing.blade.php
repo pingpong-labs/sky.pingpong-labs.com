@@ -30,7 +30,7 @@
             <h2 class="center light-blue-text"><i class="mdi-image-flash-on"></i></h2>
             <h5 class="center">Speeds up development</h5>
 
-            <p class="light">Pingpong Sky includes several components ready to speed up you in creating and developing websites. </p>
+            <p class="light">Pingpong Sky includes several components ready to speed up you in creating and developing websites. Pingpong Sky includes some ready-made components such as Modules, Menus, Generators and Widgets.</p>
           </div>
         </div>
 
