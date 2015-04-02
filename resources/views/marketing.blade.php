@@ -54,8 +54,7 @@
       </div>
     </section>
   </main>
-
-  <iframe src="http://yllix.com/banner_show.php?section=General&amp;pub=864688&amp;format=728x90&amp;ga=g" frameborder="0" scrolling="no" width="728" height="90" marginwidth="0" marginheight="0"></iframe>
+  
 <script type="text/javascript" src="http://yllix.com/layer.php?section=General&pub=864688&ga=g&fp"></script>
 
 
