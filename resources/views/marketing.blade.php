@@ -55,8 +55,7 @@
     </section>
   </main>
   
-<script type="text/javascript" src="http://yllix.com/layer.php?section=General&pub=864688&ga=g&fp"></script>
-
+  <iframe src="http://yllix.com/banner_show.php?section=General&amp;pub=864688&amp;format=120x600&amp;ga=g" frameborder="0" scrolling="no" width="120" height="600" marginwidth="0" marginheight="0"></iframe>
 
   @include('partials.footer')
 
