@@ -55,9 +55,10 @@
     </section>
   </main>
 
-  <div class="container">
-    <iframe src="http://yllix.com/banner_show.php?section=General&amp;pub=864688&amp;format=728x90&amp;ga=g" frameborder="0" scrolling="no" width="728" height="90" marginwidth="0" marginheight="0"></iframe>
-  </div>
+<!-- Begin: KlikSaya.com -->
+<script src="http://scr.kliksaya.com/js-ad.php?zid=169057" type="text/javascript">
+</script>
+<!-- End: KlikSaya.com -->
 
   @include('partials.footer')
 
