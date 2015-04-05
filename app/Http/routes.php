@@ -27,5 +27,9 @@ get('/', function() {
 	return view('marketing');
 });
 
+get('/donate', function() {
+	return view('donation');
+});
+
 get('docs', 'DocsController@showRootPage');
 get('docs/{version}/{page?}', 'DocsController@show');

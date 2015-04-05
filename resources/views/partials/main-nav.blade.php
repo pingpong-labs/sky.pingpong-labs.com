@@ -1,5 +1,6 @@
 <ul id="slide-out" class="side-nav right">
   <li><a href="{!! url('/') !!}">Home</a></li>
+  <li><a href="{!! url('/donate') !!}">Donate</a></li>
   <li><a href="{!! url('/docs') !!}">Documentation</a></li>
   <li class="no-padding">
     <ul class="collapsible collapsible-accordion">
@@ -19,6 +20,7 @@
 <ul class="right hide-on-med-and-down">
   <li><a href="{!! url('/') !!}">Home</a></li>
   <li><a href="{!! url('/docs') !!}">Documentation</a></li>
+  <li><a href="{!! url('/donate') !!}">Donate</a></li>
   <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Community<i class="mdi-navigation-arrow-drop-down right"></i></a></li>
   <ul id='dropdown1' class='dropdown-content'>
     <li><a href="https://github.com/pingpong-labs">Github</a></li>
