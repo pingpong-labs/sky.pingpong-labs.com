@@ -18,6 +18,7 @@ pre.prettyprint {
 }
 pre.prettyprint code {
   font-family: 'Source Code Pro', Monaco, Consolas, "Lucida Console", monospace;
+  background: none;
 }
 pre.prettyprint .pln {
   color: #555555;
