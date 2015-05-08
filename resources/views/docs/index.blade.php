@@ -14,11 +14,11 @@
       <div class="col s12">
         {!! $content !!}
       </div>
-      <div class="col s12" align="center" style="margin-top: 20px;">
       <!-- Begin: KlikSaya.com -->
-      <script src="http://scr.kliksaya.com/js-ad.php?zid=169057" type="text/javascript">
+      <script src="http://scr.kliksaya.com/js-ad.php?zid=171065" type="text/javascript">
       </script>
       <!-- End: KlikSaya.com -->
+
       </div>
     </section>
   </main>
