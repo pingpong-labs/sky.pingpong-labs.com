@@ -55,13 +55,6 @@
     </section>
   </main>
 
-<div class="container" align="center">
-<!-- Begin: KlikSaya.com -->
-<script src="http://scr.kliksaya.com/js-ad.php?zid=169057" type="text/javascript">
-</script>
-<!-- End: KlikSaya.com -->
-</div>
-
   @include('partials.footer')
 
 </body>
