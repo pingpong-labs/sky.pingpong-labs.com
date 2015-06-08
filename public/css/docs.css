@@ -13,6 +13,22 @@ li.logo {
   margin-bottom: 10px;
 }
 
+ul, ul > li{
+	list-style-type: circle !important;
+}
+ul > li {
+	margin-left: 25px;
+}
+.side-nav li {
+	margin-left: 0;
+}
+
+.page-footer ul,
+.page-footer ul > li {
+	margin-left: 0px;
+	list-style-type: none !important;
+}
+
 @media only screen and (max-width : 992px) {
 	body.docs header, main, footer {
 		padding-left: 0;
@@ -52,21 +68,27 @@ li.logo .brand-logo {
 
 h1 {
 	font-size: 2rem;
+	line-height: 2rem;
 }
 h2 {
 	font-size: 1.8rem;
+	line-height: 1.8rem;
 }
 h3 {
 	font-size: 1.6rem;
+	line-height: 1.6rem;
 }
 h4 {
 	font-size: 1.4rem;
+	line-height: 1.4rem;
 }
 h5 {
 	font-size: 1.2rem;
+	line-height: 1.2rem;
 }
 h6 {
 	font-size: 1rem;
+	line-height: 1rem;
 }
 code {
   padding: 2px 4px;
