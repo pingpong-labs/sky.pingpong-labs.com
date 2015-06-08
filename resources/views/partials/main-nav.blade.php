@@ -38,4 +38,4 @@
     </ul>
     @endif
   </ul>
-  <a href="#" data-activates="{{ Request::is('/') ? 'slide-out' : 'slide-out2' }}" class="button-collapse btn-toggle-right"><i class="mdi-navigation-menu"></i></a>
+  <a href="#" data-activates="{{ Request::is('/') ? 'slide-out' : 'slide-out2' }}" class="button-collapse-right btn-toggle-right"><i class="mdi-navigation-menu"></i></a>

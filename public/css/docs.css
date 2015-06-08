@@ -2,12 +2,20 @@ body.docs header, main, footer {
 	padding-left: 240px;
 }
 
+li.logo > a {
+  border-bottom: 1px solid #ddd;
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+li.logo {
+  margin-bottom: 10px;
+}
+
 @media only screen and (max-width : 992px) {
 	body.docs header, main, footer {
 		padding-left: 0;
-	}
-	li.logo {
-		margin-top: 40px;
 	}
 	.btn-toggle-right {
 		float: right !important;
