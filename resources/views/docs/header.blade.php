@@ -8,8 +8,8 @@
       
         {!! $index !!}
 
-        <a href="#" data-activates="slide-out2" class="button-collapse btn-menu-left">
-        	<i class="mdi-navigation-apps"></i>
+        <a href="#" data-activates="slide-out" class="button-collapse btn-menu-left">
+        	<i class="mdi-action-home"></i>
         </a>
         
 
