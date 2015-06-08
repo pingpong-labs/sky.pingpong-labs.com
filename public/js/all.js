@@ -9,9 +9,12 @@ $(document).ready(function () {
 	function slideNavRight () {
 		var ww = $(window).width();
 		var edge = 'left';
-		// console.log(ww);
 		if (ww < 978) {
-			edge = 'right';
+			if (typeof URI_PATH != 'undefined') {
+				if (URI_PATH !== '/') {
+					edge = 'right';
+				}
+			}
 		} else {
 			edge = 'left';
 		}

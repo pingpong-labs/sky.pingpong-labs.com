@@ -39,6 +39,9 @@
       </div>
     </section>
   </main>
+  <script>
+    var URI_PATH = '{{ Request::path() }}';
+  </script>
   @include('partials.footer')
   <script type="text/javascript">
   $('pre').addClass('prettyprint');
