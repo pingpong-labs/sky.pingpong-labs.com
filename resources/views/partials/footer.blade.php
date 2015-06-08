@@ -27,7 +27,7 @@
   </div>
   <div class="footer-copyright">
     <div class="container">
-      Made with <i class="fa heart fa-heart"></i> by <a class="blue-text text-lighten-4" href="https://www.pingpong-labs.com">Pingpong Labs</a>
+      Made with <spa class="text-red">&hearts;</spa> by <a class="blue-text text-lighten-4" href="https://www.pingpong-labs.com">Pingpong Labs</a>
 
       <div class="right">
         Copyright &copy; 2015. All rights reserved.
