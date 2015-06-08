@@ -86,7 +86,7 @@ class DocsController extends Controller
     protected function getDocVersions()
     {
         return [
-            'master' => 'Dev',
+            'master' => 'Master',
             '1.0' => '1.0',
             '2.0' => '2.0',
         ];
