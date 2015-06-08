@@ -1,9 +1,4 @@
 $(document).ready(function () {
-	var ww = $(window).width();
-	var edge = 'left';
-	if (ww < 1024) {
-		edge = 'right';
-	};
 	// dropdown
 	$(".dropdown-button").dropdown();
 	// mobile collapse
@@ -11,9 +6,19 @@ $(document).ready(function () {
 	    // menuWidth: 300, // Default is 240
 	});
 
-	$('.button-collapse-right').sideNav({
-	    // menuWidth: 300, // Default is 240
-	    edge: edge, // Choose the horizontal origin
-	    // closeOnClick: true // Closes side-nav on <a> clicks, useful for Angular/Meteor
-	});
+	function slideNavRight () {
+		var ww = $(window).width();
+		var edge = 'left';
+		// console.log(ww);
+		if (ww < 978) {
+			edge = 'right';
+		} else {
+			edge = 'left';
+		}
+		$('.button-collapse-right').sideNav({
+		    edge: edge, // Choose the horizontal origin
+		});
+	}
+
+	slideNavRight();
 });
