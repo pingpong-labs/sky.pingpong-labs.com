@@ -9,7 +9,7 @@
         {!! $index !!}
 
         <a href="#" data-activates="slide-out2" class="button-collapse btn-menu-left">
-        	<i class="mdi-navigation-menu"></i>
+        	<i class="mdi-navigation-apps"></i>
         </a>
         
 
