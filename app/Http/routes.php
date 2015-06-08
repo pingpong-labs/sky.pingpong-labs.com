@@ -19,16 +19,17 @@ define('DEFAULT_VERSION', '2.0');
 /**
  * Convert some text to Markdown...
  */
-function markdown($text) {
-	return (new ParsedownExtra)->text($text);
+function markdown($text)
+{
+    return (new ParsedownExtra)->text($text);
 }
 
-get('/', function() {
-	return view('marketing');
+get('/', function () {
+    return view('marketing');
 });
 
-get('/donate', function() {
-	return view('donation');
+get('/donate', function () {
+    return view('donation');
 });
 
 get('docs', 'DocsController@showRootPage');
