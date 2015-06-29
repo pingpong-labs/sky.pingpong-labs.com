@@ -106,4 +106,19 @@ class Documentation
         
         return $this->getContents($path);
     }
+
+    /**
+     * Get doc versions.
+     * 
+     * @return array
+     */
+    public function getVersions()
+    {
+        return [
+            'master' => 'Master',
+            '1.0' => '1.0',
+            '2.0' => '2.0',
+            '2.1' => '2.1',
+        ];
+    }
 }
