@@ -75,7 +75,7 @@ class DocsController extends Controller
      */
     protected function isVersion($version)
     {
-        return in_array($version, ['master', '1.0', '2.0']);
+        return in_array($version, array_keys($this->getDocVersions()));
     }
 
     /**
